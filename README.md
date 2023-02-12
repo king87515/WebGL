@@ -11,4 +11,7 @@ WebGL Course
 ## Lesson2
 - https://king87515.github.io/WebGL/lesson2/code_lesson2.html
 - https://king87515.github.io/WebGL/lesson2/code_hw2.html
-## ...editing
+## Lesson
+- https://king87515.github.io/WebGL/lesson3/code_lesson3_snow.html
+- https://king87515.github.io/WebGL/lesson3/code_lesson3_discard.html
+- https://king87515.github.io/WebGL/lesson3/code_hw3.html
